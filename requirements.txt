@@ -1,0 +1,4 @@
+langdetect
+openai
+deep_translator
+aiogram
